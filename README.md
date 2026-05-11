@@ -1,4 +1,6 @@
 # Newborn Cry Classification and Home Care Assistant
+# Live Demo
+https://taruni09-newborn-cry-classisfication.hf.space/?__theme=system&deep_link=Xqy-Vg-XtKY
 # Discription
 This project is a machine learning–based application designed to analyze newborn baby cry audio and identify the possible reason for crying. By using audio signal processing and a trained classification model, the system categorizes different types of cries and provides safe, general home-care suggestions to assist parents and caregivers.
 # Technologies  used
